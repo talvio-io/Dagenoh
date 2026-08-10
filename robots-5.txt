@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dageno.fun/sitemap.xml
